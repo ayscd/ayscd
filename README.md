@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ayeska! A brazillian architect that loves technology
-- 👀 I’m interested in creative roles that involve front and back end development, and mainly optmizing processes
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, AI and React. I'm enrolled on a Bootcamp with SheCodes
-- 💞️ I’m looking to collaborate on projects that involve creativity and frotn end solutions
+- 👀 I’m interested in creative roles that involve optmizing processes in the AEC industry
+- 🌱 I’m currently a Junior Web Developer, recently graduated from the SheCodes Bootcamp
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/ayeskaasc/
+- 🪪 You can find my resume in my LinkedIn profile
 
 <!---
 ayscd/ayscd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
